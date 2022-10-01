@@ -1,0 +1,13 @@
+tasks:
+  - before: |
+      cd /workspaces
+      git clone https://github.com/gbdev/rgbds.git
+      cd https://github.com/gbdev/rgbds.git
+    init: |  
+      make 
+      sudo make install
+      gp sync-done rgbds
+      exit
+
+
+

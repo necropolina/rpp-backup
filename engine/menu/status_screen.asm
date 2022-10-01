@@ -295,10 +295,10 @@ PrintGenderStatusScreen: ; called on status screen
 	dec a
 	jr z, .male
 	; else female
-	ld a, "♀"
+	ld a, "⚧"
 	jr .printSymbol
 .male
-	ld a, "♂"
+	ld a, "∅"
 	jr .printSymbol
 .noGender
 	ld a, " "

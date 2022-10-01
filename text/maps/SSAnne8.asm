@@ -105,7 +105,7 @@ _SSAnne8Text11::
 	cont "call me."
 
 	para "I'm a Global"
-	line "Police agent."
+	line "investigator."
 	cont "On the trail of"
 	cont "Team Rocket!"
 	

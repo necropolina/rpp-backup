@@ -36,7 +36,7 @@ _MomHealText2::
 
 _StandByMeText::
 	text "There's a movie"
-	line "on TV. Four boys"
+	line "on TV. Four kids"
 	cont "are walking on"
 	cont "railroad tracks."
 
@@ -47,9 +47,9 @@ _WizardOfOzText::
 	text "There's a movie"
 	line "on TV."
 	
-	para "A girl with her"
-	line "hair in pigtails"
-	cont "is walking up a"
+	para "Judy Garland"
+	line "in pigtails is"
+	cont "walking up a"
 	cont "brick road."
 
 	para "I better go too."

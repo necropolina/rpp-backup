@@ -75,9 +75,9 @@ BugCatcherName:
 LassName:
 	db "LASS@"
 JrTrainerMName:
-	db "JR.TRAINER♂@"
+	db "JR.TRAINER∅@"
 JrTrainerFName:
-	db "JR.TRAINER♀@"
+	db "JR.TRAINER⚧@"
 PokemaniacName:
 	db "POKéMANIAC@"
 SuperNerdName:
@@ -107,6 +107,6 @@ ScientistName:
 RocketName:
 	db "ROCKET@"
 CooltrainerMName:
-	db "COOLTRAINER♂@"
+	db "COOLTRAINER∅@"
 CooltrainerFName:
-	db "COOLTRAINER♀@"
+	db "COOLTRAINER⚧@"

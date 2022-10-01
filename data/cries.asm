@@ -28,10 +28,10 @@ db $0F, $EE, $01; Pikachu
 db $09, $EE, $08; Raichu
 db $00, $20, $40; Sandshrew
 db $00, $FF, $FF; Sandslash
-db $01, $00, $80; Nidoran♀
+db $01, $00, $80; Nidoran⚧
 db $01, $2C, $E0; Nidorina
 db $0A, $00, $80; Nidoqueen
-db $00, $00, $80; Nidoran♂
+db $00, $00, $80; Nidoran∅
 db $00, $2C, $C0; Nidorino
 db $09, $00, $80; Nidoking
 db $19, $CC, $01; Clefairy

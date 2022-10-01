@@ -240,8 +240,8 @@ charmap "'", $E0
 charmap "-", $E3
 charmap "'r", $E4
 charmap "'m", $E5
-charmap "?", $E6
-charmap "!", $E7
+charmap "???", $E6
+charmap "!!", $E7
 charmap ".", $E8
 
 charmap "+", $EA
@@ -250,13 +250,13 @@ charmap "▷", $EC
 charmap "▶", $ED
 charmap "▲", $ED
 charmap "▼", $EE
-charmap "♂", $EF
+charmap "∅", $EF
 charmap "¥", $F0
 charmap "×", $F1
 charmap "⠄", $F2
 charmap "/", $F3
 charmap ",", $F4
-charmap "♀", $F5
+charmap "⚧", $F5
 charmap "0", $F6
 charmap "1", $F7
 charmap "2", $F8

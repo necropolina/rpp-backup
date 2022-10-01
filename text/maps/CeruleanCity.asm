@@ -128,8 +128,8 @@ _CeruleanCityText6::
 	cont "behind this most"
 	cont "heinous crime!"
 
-	para "Even our Police"
-	line "Force has trouble"
+	para "Even our fascist"
+	line "pigs have trouble"
 	cont "with the Rockets!"
 	done
 

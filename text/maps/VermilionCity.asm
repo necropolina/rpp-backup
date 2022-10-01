@@ -104,7 +104,7 @@ _VermilionCityText8::
 	line "Rock Tunnel to"
 	cont "Lavender Town."
 
-	para "Vermilion Police"
+	para "Vermilion Pigs"
 	done
 
 _VermilionCityText11::

@@ -91,8 +91,8 @@ _PewterCityText7::
 	para "Thieves have been"
 	line "stealing #mon"
 	cont "fossils at Mt."
-	cont "Moon! Please call"
-	cont "Pewter Police"
+	cont "Moon! Please nark"
+	cont "to Pewter Pigs"
 	cont "with any info!"
 	done
 

@@ -9257,10 +9257,10 @@ PrintGenderCommon: ; used by both routines
 	dec a
 	jr z, .male
 	; else female
-	ld a, "♀"
+	ld a, "⚧"
 	ret
 .male
-	ld a, "♂"
+	ld a, "∅"
 	ret
 .noGender
 	ld a, " "

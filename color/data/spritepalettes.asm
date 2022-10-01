@@ -148,8 +148,8 @@ SpritePalettesPokecenter: ; Taken from pokemon GSC.
 
 ; PAL_OW_EMOJI
 	RGB 31,31,31
-	RGB 31,31,31
-	RGB 13,13,13
+	RGB 29,29,5
+	RGB 19,19,0
 	RGB 0,0,0
 
 ; PAL_OW_TREE

@@ -648,7 +648,7 @@ _TurnPageText::
 	done
 
 _ViridianSchoolNotebookText5::
-	text "Girl: Hey! Don't"
+	text "Student: Hey! Don't"
 	line "look at my notes!@@"
 
 _ViridianSchoolNotebookText1::

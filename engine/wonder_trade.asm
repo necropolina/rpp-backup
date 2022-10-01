@@ -341,10 +341,10 @@ MinimumPokemonLevels: ; Offered Pokemon must be within the level range
 	db  20, 100 ; Raichu
 	db   1,  21 ; Sandshrew
 	db  22, 100 ; Sandslash
-	db   1,  15 ; Nidoran♀
+	db   1,  15 ; Nidoran⚧
 	db  16,  35 ; Nidorina
 	db  36, 100 ; Nidoqueen
-	db   1,  15 ; Nidoran♂
+	db   1,  15 ; Nidoran∅
 	db  16,  35 ; Nidorino
 	db  36, 100 ; Nidoking
 	db   5,  19 ; Clefairy
