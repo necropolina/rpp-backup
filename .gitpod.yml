@@ -1,7 +1,7 @@
 tasks:
   - init: |  
       git clone https://github.com/gbdev/rgbds.git
-      cd https://github.com/gbdev/rgbds.git
+      cd rgbds
       make 
       sudo make install
       gp sync-done rgbds
